@@ -3,6 +3,7 @@
 This repository contains a comprehensive Power BI dashboard designed to monitor and analyze core business performance metrics, including revenue, cost, profit, and customer segmentation.
 
 <img width="695" height="374" alt="image" src="https://github.com/user-attachments/assets/5a7c3a2d-3889-4ac9-9b15-72aea3d16829" />
+
 ## Dashboard Overview
 The **Overview Page** provides an executive summary of the company's financial health, enabling stakeholders to track Year-to-Date (YTD) performance compared to the previous year (LY). Key features include:
 
